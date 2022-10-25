@@ -12,10 +12,11 @@
   "dependencies": {
     "@react-navigation/drawer": "^6.5.0",
     "@react-navigation/native": "^6.0.13",
+    "@react-navigation/native-stack": "^6.9.0",
     "@react-navigation/stack": "^6.3.1",
     "file-loader": "^6.2.0",
     "react": "18.1.0",
-    "react-native": "0.70.1",
+    "react-native": "0.70.4",
     "react-native-gesture-handler": "^2.6.2",
     "react-native-paper": "5.0.0-rc.6",
     "react-native-reanimated": "3.0.0-rc.3",
